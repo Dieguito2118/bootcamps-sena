@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "ac853281-ad01-41c2-9548-c1afd3f6450c",
+		"_postman_id": "9ce58d78-76d7-4ece-a569-51e754a38e24",
 		"name": "APIBootcamp SENA",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -9,7 +9,10 @@
 			"name": "Traer todos los bootcamps",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
@@ -17,7 +20,10 @@
 			"name": "traer bootcamp  por id",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
